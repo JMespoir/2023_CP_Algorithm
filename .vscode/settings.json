@@ -6,7 +6,9 @@
     "deque": "cpp",
     "xstring": "cpp",
     "map": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "stack": "cpp",
+    "queue": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
